@@ -34,7 +34,7 @@ header nav a{
 /* Hero Section */
 .hero{
     height: 70vh;
-    background-image: url("imgs/Jewelry-Storage-Hero") center/cover no-repeat;
+    background: url("imgs/Jewelry-Storage-Hero.jpg") center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,5 +103,6 @@ footer{
     color: white;
     margin-top: 40px;
 }
+
 
 
